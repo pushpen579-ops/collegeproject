@@ -1,0 +1,6 @@
+{
+  "name": "FleetFlow — Transport & Driver Management",
+  "description": "Transport operations platform for managing fleet vehicles, drivers, trip schedules, automatic delay tracking, configurable payroll, and analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

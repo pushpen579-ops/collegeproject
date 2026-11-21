@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "USR-OWNER",
+      "name": "Fleet Owner",
+      "email": "owner@fleetflow.io",
+      "passwordHash": "$2b$10$LJjxPav0sWKY3al2lrr4pupv5s1oNCx/YOWzvguDl34O3tev.2I/S",
+      "role": "owner"
+    },
+    {
+      "id": "USR-001",
+      "name": "Fleet Administrator",
+      "email": "admin@fleetflow.io",
+      "passwordHash": "$2b$10$ybJQqZd80UlEQzm452jgp.Ynap.w1L4at8wXfkKMfp48fVGPjbAkC",
+      "role": "admin"
+    },
+    {
+      "id": "USR-002",
+      "name": "Operations Manager",
+      "email": "manager@fleetflow.io",
+      "passwordHash": "$2b$10$Ml.Bg7i59A1Wnq62.2jZQu32gXCMm8AIX29lxtijpaz3zZUgI3ea.",
+      "role": "manager"
+    },
+    {
+      "id": "USR-003",
+      "name": "Driver Account",
+      "email": "driver@fleetflow.io",
+      "passwordHash": "$2b$10$BkuJ7DRUgsA2dA7o7O7ir.8azmxalJJyn1BgjMTtJzaD21G03riri",
+      "role": "driver"
+    }
+  ],
+  "vehicles": [],
+  "drivers": [],
+  "trips": [],
+  "delays": [],
+  "salaryRules": {
+    "defaultOvertimeRatePerHour": 0,
+    "defaultNightAllowancePerTrip": 0,
+    "defaultTripAllowance": 0,
+    "defaultPerTripPay": 0,
+    "currencySymbol": "₹",
+    "autoPenalizeDelays": false,
+    "updatedAt": "2026-11-20T14:52:17.019Z"
+  },
+  "salaries": []
+}
